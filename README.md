@@ -1,3 +1,5 @@
 # raylib c++ vscode template
 
-This template is from gamedev.tv raylib course. I've created a template github repo so I can easily use it as a template for all raylib projects, feel free to use it if you want as well :D
+The functionality of the raylib template was made by the gamedev.tv raylib course.
+
+I added in the main.cpp file which gets you started with the basics you need for every raylib project (initializaing a window).
