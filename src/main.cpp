@@ -2,10 +2,10 @@
 
 int main(){
     // Initialize
-    const int screenWidth = 600;
-    const int screenHeight = 400;
+    const int SCREEN_WDITH = 600;
+    const int SCREEN_HEIGHT = 400;
 
-    InitWindow(screenWidth, screenHeight, "Raylib Window!");
+    InitWindow(SCREEN_WDITH, SCREEN_HEIGHT, "Raylib Window!");
 
     // Gameloop
     while (!WindowShouldClose()){
