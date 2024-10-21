@@ -1,8 +1,14 @@
 # Raylib C++ vscode template (any platform)
 
-The functionality of the raylib template was partially made by the gamedev.tv raylib course, with adjustments made.
+## Includes:
+- Support for storing scripts inside a src folder, including support for subfolders
+- Premade `main.cpp` file that sets the window size, a basic gameloop and opens the window
+- Makefile
+- VSCode workspace
 
-# Adjustments
+## Steps:
+1. Either create a new repository off of this as a template OR download the files
+2. Open the files from the vscode workspace
+3. Press F5 to run
 
-1. Added a main.cpp file with the barebone basics (initializing a white window screen)
-2. Updated makefile so all code can be stored in the `src` folder and it'll update automatically (includes support for subfolders!)
+*Built off of gamedev.tv raylib course template*
